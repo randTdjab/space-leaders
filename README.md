@@ -1,2 +1,5 @@
 # space-leaders
- a simple game created using python 
+ a simple space shooter game created using python 
+
+
+ 
