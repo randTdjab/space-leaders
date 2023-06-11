@@ -3,9 +3,14 @@ a simple space shooter game created using python
 
 ## Main menu 
 
-    
+
+
+https://github.com/randTdjab/space-leaders/assets/126112089/3ddb42d0-83f0-4937-83a0-72e00d30c188
+
+
 
 ## Gameplay
+
 
 ## Shop
 
